@@ -1,0 +1,32 @@
+{
+  "name": "vue-nuxt-ssr.localhost",
+  "version": "1.0.0",
+  "description": "Poster Nuxt.js project",
+  "author": "bexazak",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.8.5",
+    "@nuxtjs/axios": "^5.9.5",
+    "@nuxtjs/firebase": "^5.2.0",
+    "cookie": "^0.4.1",
+    "cookieparser": "^0.1.0",
+    "firebase": "^7.14.4",
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^2.2.0",
+    "nuxt": "^2.0.0",
+    "nuxt-dropzone": "^1.0.4",
+    "nuxt-fire": "^3.5.7",
+    "vue-html2canvas": "0.0.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "@nuxtjs/vuetify": "^1.10.3",
+    "firebase-admin": "^8.12.1"
+  }
+}
