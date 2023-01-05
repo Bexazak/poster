@@ -19,7 +19,7 @@
     "firebase": "^7.14.4",
     "js-cookie": "^2.2.1",
     "jwt-decode": "^2.2.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-dropzone": "^1.0.4",
     "nuxt-fire": "^3.5.7",
     "vue-html2canvas": "0.0.4"
